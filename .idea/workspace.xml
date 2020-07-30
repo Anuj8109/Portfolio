@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="991b98f6-0742-489c-9247-545b3797e5c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/job/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/job/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloging/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloging/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloging/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloging/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job/templates/jobs/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/job/templates/jobs/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/job/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/job/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
@@ -20,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
