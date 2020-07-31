@@ -25,9 +25,9 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECRET_KEY = 'h=_m@b=a#-w0b*d3h83=8t(@dhihmow#cn10=+mrk+q2+1e2k$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', 'itz-portfolio.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
