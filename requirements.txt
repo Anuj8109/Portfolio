@@ -7,3 +7,5 @@ psycopg2==2.8.5
 psycopg2-binary==2.8.5
 pytz==2020.1
 whitenoise==5.1.0
+loudinary==1.17.0
+django-cloudinary-storage==0.2.3
